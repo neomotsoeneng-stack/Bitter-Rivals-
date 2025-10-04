@@ -53,3 +53,23 @@
           <p>The uprisings that reignited proxy wars in Syria, Yemen, and beyond, intensifying the rivalry.</p>
         </div>
         <div class="bg-wh# Bitter-Rivals-
+          <h4 class="font-bold mb-2">Chapter 6: The Nuclear Deal & Beyond</h4>
+          <p>Iran's nuclear ambitions, U.S. involvement, and China's mediation efforts in the 21st century.</p>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- Author Section -->  <section id="author" class="max-w-4xl mx-auto p-8">
+    <h3 class="text-3xl font-bold mb-4 text-red-700">About the Author</h3>
+    <p class="text-lg">Written by Vinboy Motsoeneng, this book combines deep research with engaging storytelling to make the complex geopolitics of the Middle East accessible to all readers.</p>
+  </section>  <!-- Call to Action with eBook download -->  <section id="cta" class="bg-red-700 text-white text-center py-16">
+    <h3 class="text-3xl font-bold mb-4">Get Your Copy Today</h3>
+    <p class="max-w-2xl mx-auto mb-6">Join readers worldwide in understanding the most important rivalry shaping our world. Pre-order now or download the eBook directly.</p>
+    <div class="space-x-4">
+      <a href="your-preorder-link-here" class="bg-white text-red-700 px-6 py-3 rounded-xl font-bold hover:bg-gray-200">Pre-Order Now</a>
+      <a href="your-ebook-file.pdf" class="bg-gray-100 text-red-700 px-6 py-3 rounded-xl font-bold hover:bg-gray-200" download>Download eBook</a>
+    </div>
+  </section>  <!-- Footer -->  <footer class="bg-gray-900 text-gray-300 text-center py-6">
+    <p>&copy; 2025 Bitter Rivals. All rights reserved.</p>
+  </footer>
+</body>
+</html>
